@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-practice2/static/css/main.a3ea76f3.chunk.css",
-    "main.js": "/react-practice2/static/js/main.1560a4a2.chunk.js",
-    "main.js.map": "/react-practice2/static/js/main.1560a4a2.chunk.js.map",
+    "main.css": "/react-practice2/static/css/main.f9b629ad.chunk.css",
+    "main.js": "/react-practice2/static/js/main.b2ccb762.chunk.js",
+    "main.js.map": "/react-practice2/static/js/main.b2ccb762.chunk.js.map",
     "runtime-main.js": "/react-practice2/static/js/runtime-main.0e899784.js",
     "runtime-main.js.map": "/react-practice2/static/js/runtime-main.0e899784.js.map",
     "static/js/2.bb4aaecf.chunk.js": "/react-practice2/static/js/2.bb4aaecf.chunk.js",
     "static/js/2.bb4aaecf.chunk.js.map": "/react-practice2/static/js/2.bb4aaecf.chunk.js.map",
     "index.html": "/react-practice2/index.html",
-    "precache-manifest.4013760a79bb1a1d0cba56885fc5e9ce.js": "/react-practice2/precache-manifest.4013760a79bb1a1d0cba56885fc5e9ce.js",
+    "precache-manifest.c502a050aa1260313e1041834d9f44cf.js": "/react-practice2/precache-manifest.c502a050aa1260313e1041834d9f44cf.js",
     "service-worker.js": "/react-practice2/service-worker.js",
-    "static/css/main.a3ea76f3.chunk.css.map": "/react-practice2/static/css/main.a3ea76f3.chunk.css.map"
+    "static/css/main.f9b629ad.chunk.css.map": "/react-practice2/static/css/main.f9b629ad.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.0e899784.js",
     "static/js/2.bb4aaecf.chunk.js",
-    "static/css/main.a3ea76f3.chunk.css",
-    "static/js/main.1560a4a2.chunk.js"
+    "static/css/main.f9b629ad.chunk.css",
+    "static/js/main.b2ccb762.chunk.js"
   ]
 }
